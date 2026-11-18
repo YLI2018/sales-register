@@ -1,0 +1,14 @@
+{
+  "case_id": "VAL-001",
+  "purpose": "Back-test",
+  "target_name": "Target Ship 1",
+  "segment": "MR",
+  "dwt": 51768,
+  "year_built": 2012,
+  "shipyard": "Yard A, Korea",
+  "valuation_date": "2026-05-22",
+  "known_price_musd": 28.45,
+  "use_reviewed_decisions": "Yes",
+  "prepared_by": "Analyst",
+  "date_prepared": "2026-11-05"
+}
