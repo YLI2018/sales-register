@@ -1,0 +1,9 @@
+[project]
+name = "m1-calculate"
+version = "0.3.0"
+description = "M1 ship valuation model - Calculate: comparable sales valuation in Python for one ship or a list"
+requires-python = ">=3.10"
+dependencies = ["openpyxl==3.1.2", "numpy"]
+
+[tool.setuptools.packages.find]
+where = ["src"]

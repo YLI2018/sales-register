@@ -1,0 +1,6 @@
+vessel,segment,dwt,built,shipyard,yard_country,price_musd,buyer,en_bloc,sale_type,next_survey,features
+Sample Glory,LR2,109000,2012,Acme,Korea,52.0,Greek,N,Secondhand,2028-04-01,
+Demo Pearl,MR,50100,2011,STX,Korea,26.5,undisclosed,N,Secondhand,2026-10-01,
+Test Voyager,MR,47000,2008,Eastbay,China,,undisclosed,N,Secondhand,2027-07-01,Approximate price: high $ 18.0m
+Mock Empire,Kamsarmax,82000,2015,Seaview,Japan,24.0,Chinese,N,Auction,2029-09-01,
+Sample Wave,Supramax,56500,2010,Riverside,China,14.5,undisclosed,N,Secondhand,2027-03-01,

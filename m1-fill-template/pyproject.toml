@@ -1,0 +1,9 @@
+[project]
+name = "m1-fill-template"
+version = "0.1.1"
+description = "M1 ship valuation model - Fill template: check data files and fill the blank M1 template"
+requires-python = ">=3.10"
+dependencies = ["openpyxl==3.1.2"]
+
+[tool.setuptools.packages.find]
+where = ["src"]

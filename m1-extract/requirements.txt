@@ -1,0 +1,4 @@
+# Installed in this project's private environment (.venv). Versions used for the tests on 5 Nov 2026.
+pdfplumber==0.11.4
+pyobjc-framework-Vision==10.3.1
+openpyxl==3.1.2

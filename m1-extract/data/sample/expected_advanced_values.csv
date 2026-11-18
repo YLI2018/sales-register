@@ -1,0 +1,5 @@
+segment,size,age,value_musd,compared_with,earlier_value_musd
+MR,50k,Resale,48.5,Week 1,48
+MR,50k,5 years,41,Week 1,41
+MR,50k,10 years,32.5,Week 1,33
+LR2,115k,5 years,68,Week 1,67.5

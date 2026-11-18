@@ -1,0 +1,8 @@
+vessel,segment,dwt,built,shipyard,yard_country,price_musd,buyer,en_bloc,sale_type,next_survey,features
+Sample Horizon,Kamsarmax,81600,2014,Northport Heavy,Korea,21.5,Greek,N,Secondhand,2029-03-01,
+Demo Trader,Supramax,56100,2012,Eastbay,Japan,15.2,Undisclosed,N,Secondhand,2027-07-01,Scrubber fitted
+Test Pioneer,Handysize,37200,2015,Seaview,Japan,,Greek,N,Secondhand,2030-05-01,Approximate price: High $ 19m
+Mock Spirit,Handysize,32000,2011,Harbourside,Japan,12.0,Chinese,Y,Secondhand,2028-04-01,
+Mock Venture,Handysize,32010,2011,Harbourside,Japan,12.0,Chinese,Y,Secondhand,2028-04-01,
+Sample Coast,MR,49990,2016,Hyundai Mipo,Korea,34.5,Undisclosed,N,Auction,2026-09-01,
+Demo Crest,LR2,115000,2027,Riverside,China,72.0,Greek,N,Resale,,

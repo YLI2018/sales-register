@@ -1,0 +1,9 @@
+[project]
+name = "m1-dashboard"
+version = "0.1.0"
+description = "M1 ship valuation model - Dashboard: Calculate's results as a multi-page HTML dashboard"
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.setuptools.packages.find]
+where = ["src"]

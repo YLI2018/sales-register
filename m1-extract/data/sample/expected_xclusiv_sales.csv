@@ -1,0 +1,6 @@
+vessel,segment,dwt,built,shipyard,yard_country,price_musd,buyer,en_bloc,sale_type,next_survey,features
+Sample Star,Suezmax,158000,2013,Northport,Korea,72.0,Undisclosed,N,Secondhand,,
+Demo River,LR1,74500,2009,Eastbay,Croatia,18.5,Greek,N,Secondhand,,
+Test Harbour,MR,49900,2021,New Times,China,,Undisclosed,N,Secondhand,,Approximate price: RGN 47
+Mock Lake,MR,50200,2010,Hyundai Mipo,Korea,24.8,Clients of Example,N,Secondhand,,Scrubber fitted
+Sample Bay,MR,45800,2007,Shin Kurushima,Japan,16.0,Undisclosed,N,Secondhand,,Ice classed
